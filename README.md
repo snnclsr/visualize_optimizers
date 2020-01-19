@@ -2,7 +2,7 @@
 Visualization of various Deep Learning optimization algorithms on some set of optimization test functions. 
 Algorithms are implemented in NumPy from scratch.
 
-Currently implemented algorithms:
+**Currently implemented algorithms:**
 
 1. [SGD](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 2. [Adagrad](http://www.jmlr.org/papers/volume12/duchi11a/duchi11a.pdf)
