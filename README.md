@@ -19,6 +19,11 @@ Currently implemented algorithms:
 
 ![](assets/booth3d.gif)
 
+![](assets/beale_2d.png)
+
+![](assets/booth2d.png)
+
+![](assets/himmelblau2d.png)
 
 # REFERENCES
 
