@@ -9,6 +9,7 @@ Currently implemented algorithms:
 4. [RMSProp](https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf)
 5. [Adam](https://arxiv.org/pdf/1412.6980.pdf)
 6. [AdaMax](https://arxiv.org/pdf/1412.6980.pdf)
+7. AdamW (WIP)
 
 # Examples
 
@@ -22,4 +23,4 @@ Currently implemented algorithms:
 # REFERENCES
 
 * [Animation code from: Louis Tiao](http://louistiao.me/notes/visualizing-and-animating-optimization-algorithms-with-matplotlib/)
-* [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/)
+* [An overview of gradient descent optimization algorithms by Sebastian Ruder](https://ruder.io/optimizing-gradient-descent/)
