@@ -1,5 +1,6 @@
 
-Visualization of different Deep Learning optimization algorithms on some set of optimization test functions.
+Visualization of various Deep Learning optimization algorithms on some set of optimization test functions. 
+Algorithms are implemented in NumPy from scratch.
 
 Currently implemented algorithms:
 
